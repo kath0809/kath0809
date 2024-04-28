@@ -3,7 +3,7 @@
 
 👩‍🎓 I'm currently in my second year of a three-year bachelor's degree in Information technology - Frontend and mobile development.
 
-💻 Languages I have learned so far:
+💻 Language's I have started to learn so far:
 
 ![htmlCssJS](https://github.com/kath0809/kath0809/assets/114475257/cfbf7252-6c53-4023-a2f5-0f70dca11516) ![java-logo-1](https://github.com/kath0809/kath0809/assets/114475257/ef733103-3abc-4423-95fb-af57d31e46a2)
 
