@@ -1,14 +1,27 @@
 ### Hi there 👋
+Contact me on:  
+
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karima-thingvold-6a027923b)
 
-👩‍🎓 I'm currently in my second year of a three-year bachelor's degree in Information technology - Frontend and mobile development.
+👩‍🎓 I'm in my second year of a three-year bachelor's degree in Information technology - Frontend and mobile development.
 
-💻 Language's I have started to learn so far:
+---
 
-![htmlCssJS](https://github.com/kath0809/kath0809/assets/114475257/cfbf7252-6c53-4023-a2f5-0f70dca11516) ![java-logo-1](https://github.com/kath0809/kath0809/assets/114475257/ef733103-3abc-4423-95fb-af57d31e46a2)
+🔭 This autumn I am looking forward to learning:  
 
-![Typescript_logo_2020 svg](https://github.com/kath0809/kath0809/assets/114475257/aa86a52b-5568-481d-ac98-7b8c18e88295)  ![kotlin-logo](https://github.com/kath0809/kath0809/assets/114475257/a4841266-37c7-46ed-acb7-41b4e9dd280f) ![sql](https://github.com/kath0809/kath0809/assets/114475257/6c8237b4-89c3-4fdc-87b9-8513aed9097d) ![c](https://github.com/kath0809/kath0809/assets/114475257/a05e7291-8f09-4701-9443-479b4e3e7fe8)
 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+and learning how to develop hybrid applications which can be deployed to multiple mobile platforms.
+
+---
+💻 Skills
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
 
 
