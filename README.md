@@ -10,9 +10,11 @@ Contact me on:
 🔭 This autumn I am looking forward to learning:  
 
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
-and learning how to develop hybrid applications which can be deployed to multiple mobile platforms.
+and learning how to develop hyprid applications wich can be deployed to multiple mobile platforms.
+
+
 ---
 Previous exams:
 
