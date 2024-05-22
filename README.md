@@ -22,6 +22,9 @@ Previous exams:
 
 [![GitHub Pages](https://img.shields.io/badge/Android-orange)](https://github.com/kath0809/Android-Exam-2023)
 
+[![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://kristiania-kws2100-2024.github.io/kws2100-exam-kath0809/) - Deployed page
+
+
 
 ---
 💻 Skills
