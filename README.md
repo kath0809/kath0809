@@ -1,6 +1,6 @@
 ![Banner](assets/banner.png)
-
-<p align="center"> Hi there 👋 and welcome to my gitHub page. </p> 
+<div align="center">
+<p> Hi there 👋 and welcome to my gitHub page. </p> 
 
 Contact me on:
 
@@ -12,11 +12,9 @@ Contact me on:
 
 🔭 This autumn I am looking forward to learning:  
 
-
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
 and learning how to develop hybrid applications wich can be deployed to multiple mobile platforms.
-
 
 ---
 Previous exams:
@@ -26,30 +24,13 @@ Previous exams:
 [![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://kristiania-kws2100-2024.github.io/kws2100-exam-kath0809/)
 [![GitHub Pages](https://img.shields.io/badge/Python-darkgreen)](https://github.com/kath0809/PythonExam24)
 
-
-
-
 ---
-<p align="center"> 💻 Skills </p> 
+💻 Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,python,cs,kotlin" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,androidstudio" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,python,cs,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,androidstudio)](https://skillicons.dev)
 
-
-
-
-
-
-
-
+</div>
 
 
 <!--
