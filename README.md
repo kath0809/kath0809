@@ -32,11 +32,6 @@ Previous exams:
 
 </div>
 
-
-
-![](https://komarev.com/ghpvc/?username=kath0809&color=3e6380)
-
-
 <!--
 **kath0809/kath0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
