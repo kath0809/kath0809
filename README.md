@@ -27,7 +27,7 @@ Previous exams:
 ---
 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,python,cs,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,ts,java,python,cs,kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,androidstudio)](https://skillicons.dev)
 
 </div>
