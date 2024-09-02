@@ -10,7 +10,7 @@ Contact me on:
 
 ---
 
-🔭 This autumn I am looking forward to learning:  
+🔭 This autumn I am learning:  
 
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
@@ -21,7 +21,7 @@ Previous exams:
 
 [![GitHub Pages](https://img.shields.io/badge/Web%20Development-blue)](https://github.com/kath0809/Web-development-exam-2023)
 [![GitHub Pages](https://img.shields.io/badge/Android-orange)](https://github.com/kath0809/Android-Exam-2023)
-[![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://kristiania-kws2100-2024.github.io/kws2100-exam-kath0809/)
+[![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://kath0809.github.io/GeographicInformationWebSystems-Exam24/)
 [![GitHub Pages](https://img.shields.io/badge/Python-darkgreen)](https://github.com/kath0809/PythonExam24)
 
 ---
