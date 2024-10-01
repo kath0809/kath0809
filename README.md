@@ -8,6 +8,12 @@ Contact me on:
 
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
+
+📍 Currently developing an iOS application that features Norwegian attractions on an interactive map.
+
+
+🤫 I'm also crafting my personal portfolio, so stay tuned for updates!
+
 ---
 
 🔭 This autumn I am learning:  
