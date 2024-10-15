@@ -20,7 +20,7 @@ Contact me on:
 
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
-and learning how to develop hybrid applications that can be deployed to multiple mobile platforms using React Native ✨
+and learning how to develop hybrid applications that can be deployed to multiple mobile platforms using React Native for cross-platform development ✨
 
 ---
 Previous exams:
