@@ -1,6 +1,6 @@
 ![Banner](assets/Banner1.2.png)
 <div align="center">
-<p> Hi there 👋 and welcome to my gitHub page. </p> 
+<p> Hi there 👋 and welcome to my GitHub page. </p> 
 
 Contact me on:
 
@@ -9,10 +9,7 @@ Contact me on:
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
 
-📍 Currently developing an iOS application that features Norwegian attractions on an interactive map.
-
-
-🤫 I'm also crafting my personal portfolio, so stay tuned for updates!
+While balancing my studies and exam preparations, I am currently working on futher developing an iOS application that showcases Norwegian tourist attractions through an interactive map using MapKit 📍 Additionally, I am building a personal portfolio website to highlight my skills and projects ✨
 
 ---
 
@@ -32,7 +29,6 @@ Previous exams:
 [![GitHub Pages](https://img.shields.io/badge/Python-darkgreen)](https://github.com/kath0809/PythonExam24)
 
 ---
-💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,ts,java,python,cs,kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,androidstudio)](https://skillicons.dev)
