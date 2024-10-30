@@ -1,4 +1,4 @@
-![Banner](assets/Banner1.2.png)
+![Banner](assets/Banner2.png)
 <div align="center">
 <p> Hi there 👋 and welcome to my GitHub page. </p> 
 
