@@ -1,6 +1,6 @@
 ![Banner](assets/Banner2.png)
 <div align="center">
-<p> Hi there 👋 and welcome to my GitHub page. </p> 
+<p> Hi 👋 </p> 
 
 Contact me on:
 
@@ -9,7 +9,7 @@ Contact me on:
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
 
-While balancing my studies and exam preparations, I am currently working on futher developing an iOS application that showcases Norwegian tourist attractions through an interactive map using MapKit 📍 Additionally, I am building a personal portfolio website to highlight my skills and projects ✨
+I am currently working on futher developing an iOS application that showcases Norwegian tourist attractions through an interactive map using MapKit 📍 Additionally, I am building a personal portfolio website to highlight my skills and projects ✨
 
 ---
 
@@ -17,7 +17,8 @@ Previous exams:
 
 [![GitHub Pages](https://img.shields.io/badge/Web%20Development-blue)](https://github.com/kath0809/Web-development-exam-2023)
 [![GitHub Pages](https://img.shields.io/badge/Android-orange)](https://github.com/kath0809/Android-Exam-2023)
-[![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://github.com/kath0809/GeographicInformationWebSystems-Exam24)
+[![GitHub Pages](https://img.shields.io/badge/Interaction%20Design%20FigmaPrototype-teal)](https://www.figma.com/design/7q4TL9THjiOzfr8jjUN0Kw/Delulu-Of-Greatness?node-id=402-55&t=GnBTFcqC1DW6AFRT-1)
+[![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-lightblue)](https://github.com/kath0809/GeographicInformationWebSystems-Exam24)
 [![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20DeployedPage-yellow)](https://kath0809.github.io/GeographicInformationWebSystems-Exam24/)
 [![GitHub Pages](https://img.shields.io/badge/Python-darkgreen)](https://github.com/kath0809/PythonExam24)
 [![GitHub Pages](https://img.shields.io/badge/Cross%20Platform-blue)](https://github.com/kath0809/CrossPlattform-Exam-2024)
