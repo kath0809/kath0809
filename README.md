@@ -27,6 +27,7 @@ Previous exams:
 [![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20WebSystems-magenta)](https://github.com/kath0809/GeographicInformationWebSystems-Exam24)
 [![GitHub Pages](https://img.shields.io/badge/GeographicInformation%20DeployedPage-yellow)](https://kath0809.github.io/GeographicInformationWebSystems-Exam24/)
 [![GitHub Pages](https://img.shields.io/badge/Python-darkgreen)](https://github.com/kath0809/PythonExam24)
+[![GitHub Pages](https://img.shields.io/badge/Cross%20Platform-blue)](https://github.com/kath0809/CrossPlattform-Exam-2024)
 
 ---
 
