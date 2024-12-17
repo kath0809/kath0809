@@ -13,13 +13,6 @@ While balancing my studies and exam preparations, I am currently working on futh
 
 ---
 
-🔭 This autumn I am learning:  
-
-[![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
-
-and learning how to develop hybrid applications that can be deployed to multiple mobile platforms using React Native for cross-platform development ✨
-
----
 Previous exams:
 
 [![GitHub Pages](https://img.shields.io/badge/Web%20Development-blue)](https://github.com/kath0809/Web-development-exam-2023)
