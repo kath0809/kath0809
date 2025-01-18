@@ -2,10 +2,6 @@
 <div align="center">
 <p> Hi 👋 </p> 
 
-Contact me on:
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karima-thingvold-6a027923b)
-
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
 
