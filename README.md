@@ -5,8 +5,6 @@
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
 
-I am currently working on futher developing an iOS application that showcases Norwegian tourist attractions through an interactive map using MapKit 📍 Additionally, I am building a personal portfolio website to highlight my skills and projects ✨
-
 ---
 
 Previous exams:
