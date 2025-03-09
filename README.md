@@ -1,13 +1,12 @@
 ![Banner](assets/Banner2.png)
 <div align="center">
-<p> Hi 👋 </p> 
 
 👩‍🎓 I'm in my last year of a three-year bachelor's degree in Information technology - Frontend and mobile development 📱
 
 
 ---
 
-Previous exams:
+Previous exams (semester 3-5):
 
 [![GitHub Pages](https://img.shields.io/badge/Web%20Development-blue)](https://github.com/kath0809/Web-development-exam-2023)
 [![GitHub Pages](https://img.shields.io/badge/Android-orange)](https://github.com/kath0809/Android-Exam-2023)
@@ -20,8 +19,8 @@ Previous exams:
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,ts,java,python,cs,kotlin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,ts,js,html,css,java,python,cs,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,githubactions,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,nextjs,nodejs,dotnet,androidstudio)](https://skillicons.dev)
 
 </div>
 
