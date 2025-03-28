@@ -20,7 +20,7 @@ Previous exams (semester 3-5):
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=swift,ts,js,html,css,java,python,cs,kotlin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,githubactions,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,nextjs,nodejs,dotnet,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,githubactions,supabase,prisma,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,nextjs,nodejs,dotnet,androidstudio)](https://skillicons.dev)
 
 </div>
 
