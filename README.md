@@ -1,3 +1,4 @@
+<!--
 ![Banner](assets/Banner2.png)
 <div align="center">
 
@@ -18,11 +19,13 @@ Previous exams (semester 3-5):
 [![GitHub Pages](https://img.shields.io/badge/iOS-red)](https://github.com/kath0809/iOS-Exam-2024)
 
 ---
+</div>
+-->
 
 [![My Skills](https://skillicons.dev/icons?i=swift,ts,js,html,css,java,python,cs,kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,githubactions,supabase,prisma,mysql,sqlite,figma,bootstrap,tailwind,npm,react,vite,nextjs,nodejs,dotnet,androidstudio)](https://skillicons.dev)
 
-</div>
+
 
 <!--
 **kath0809/kath0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
